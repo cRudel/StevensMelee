@@ -1,0 +1,12 @@
+Openings / Kill: SKRT: 5.3, Player2: 6.7
+Damage / Opening: SKRT: 22.2, Player2: 22.1
+Neutral Wins: SKRT: 38, Player2: 44
+Latest Death: SKRT: 173.9, Player2: 150.7
+Total Self-Destructs: SKRT: 0, Player2: 0
+Inputs / Minute: SKRT: 386.1, Player2: 362
+Average Kill Percent: SKRT: 116.9, Player2: 134.2
+Highest Damage Punish: SKRT: 105.2, Player2: 63.7
+Total Damage Done: SKRT: 1754.2, Player2: 1636.4
+Most Common Kill Move: SKRT: nair (8), Player2: bair (6)
+Most Common Neutral Opener: SKRT: dash (9), Player2: neutral-b (14)
+Earliest Kill: SKRT: 90.1, Player2: 108.8
